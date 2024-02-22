@@ -1,6 +1,4 @@
 # awesome--sora-prompts
-ai  openai neural-network analysis reference guide prompt artificial-intelligence manual keywords artificial-neural-networks styles encyclopedia guidebook ai-research ai-art midjourney promptory
-
 I believe that Sora is a revolutionary tool for video creation and storytelling, and let‘s explore its potential and possibilities. 
 This is a collection of text prompts that can help users make amazing videos with Sora. These prompts are based on the styles and themes of different talented directors, and they can guide Sora to generate videos that match their aesthetics and techniques. 
 
