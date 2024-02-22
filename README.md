@@ -71,9 +71,9 @@ Performing what action:
 - Surrealism: stream of consciousness, bizarre
 
 ## Color Tone:
-
 - Cool, warm, high contrast, low contrast, saturated, desaturated, monochrome, distinct color blocks, steel blue, golden hour, vintage, noir, etc. different color effects
-————————————————
+  
+# The following are 100 talented directors:
 ## 1. Orson Welles - Citizen Kane:
 > Visual Style - Dramatic lighting and shadows, exaggerated
 camera angles, deep focus shots.
