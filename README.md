@@ -427,7 +427,6 @@ black and queer.
 jarring juxtapositions.
 > Editing Style - Disorienting narrative jumps, subverting
 bourgeois virtues.
-内容续排:
 ## 81. Claire Denis - Beau Travail:  
 > Visual Style - Tactile textures, oblique angles, bodies and
 landscapes.
