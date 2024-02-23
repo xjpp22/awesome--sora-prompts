@@ -76,6 +76,8 @@ ________________________________________________________________________________
 > Visual Style - Dramatic lighting and shadows, exaggerated
 camera angles, deep focus shots.
 > Editing Style - Long takes, minimal cuts, letting scenes unfold.
+<img width="570" alt="image" src="https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/696a4076-0e8b-432d-bfaa-7746d14d96ae">
+
 ## 2. Alfred Hitchcock - Psycho:
 > Visual Style - Expressionistic high contrast lighting,
 voyeuristic camera, iconic silhouettes.  
