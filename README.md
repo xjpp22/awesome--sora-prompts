@@ -78,7 +78,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Meticulously symmetrical compositions, pastel color palettes, dollhouse-like miniatures, quirky camera angles, tracking shots.
 -   **Editing Style Prompt:** Fast-paced with jump cuts, witty dialogue, synchronized montages.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/b77ad71b-1880-4ef8-b910-225d988ca780)
+
 
 #### **2.** Stanley Kubrick:
 
@@ -86,7 +87,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Technically masterful with sweeping landscapes, innovative effects, and stark contrasts creating unease.
 -   **Editing Style Prompt:** Precise and calculated with long takes and montage sequences building suspense and realism.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/36a711dc-36a7-40e8-b20e-2cd47ea4ed43)
+
 
 #### **3.Wong Kar-wai:**
 
@@ -94,7 +96,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Lush color palettes, neon lights, slow-motion, tracking shots, long takes, unique camerawork.
 -   **Editing Style Prompt:** Dreamlike sequences, melancholic atmosphere, juxtaposition of past and present.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/cd95c30c-eb05-4e71-88fb-4601bc24a56d)
+
 
 #### **4.David Lynch:**
 
@@ -102,7 +105,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Surreal imagery, distorted perspectives, unsettling close-ups, dreamlike sequences, industrial landscapes.
 -   **Editing Style Prompt:** Non-linear narrative, jump cuts, disorienting sound design.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/3dd9dca7-c0bf-4719-92d1-703028edb244)
+
 
 #### **5.Quentin Tarantino:**
 
@@ -110,7 +114,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Homages to classic cinema, pop culture references, close-ups on violence, long takes, split-screen sequences.
 -   **Editing Style Prompt:** Non-linear storytelling, dynamic dialogue, punctuating violence, iconic soundtrack.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/af5ce83f-db01-425a-bddf-2de298552c72)
+
 
 #### **6.Darren Aronofsky:**
 
@@ -118,7 +123,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Disturbing imagery, distorted lenses, handheld camerawork, claustrophobic framing, tracking shots.
 -   **Editing Style Prompt:** Fast-paced cuts, subjective point-of-view, unsettling imagery, layered sound design.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/42c339a1-2889-4bbe-953b-cfb4d480af29)
+
 
 #### **7.Park Chan-wook:**
 
@@ -126,7 +132,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Visually striking violence, long takes, single-shot action sequences, neo-noir atmosphere, dramatic color palettes.
 -   **Editing Style Prompt:** Stylized transitions, impactful slow-motion, suspenseful sequences, dynamic sound design.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/99b3178c-db3b-4874-be4e-a16a01768519)
+
 
 #### **8.Christopher Nolan:**
 
@@ -134,7 +141,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Practical effects, IMAX cinematography, awe-inspiring landscapes, realistic space visuals, handheld camerawork.
 -   **Editing Style Prompt:** Tight cuts, complex timelines, intricate time travel sequences, impactful sound design.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/23c3ef41-5e65-4062-9ac7-305cd5e0b1e9)
+
 
 #### **9.Hayao Miyazaki:**
 
@@ -142,7 +150,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Hand-drawn animation, vibrant colors, whimsical creatures, detailed landscapes, dreamlike sequences.
 -   **Editing Style Prompt:** Emotionally driven pacing, seamless transitions, focus on character expressions and movement.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/f03f09b1-7410-4e5c-956e-85c49085d71b)
+
 
 #### **10.Alfonso Cuarón:**
 
@@ -150,7 +159,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Long takes, single-shot sequences, realistic space visuals, immersive camerawork, minimal dialogue.
 -   **Editing Style Prompt:** Seamless cuts, subjective point-of-view, use of silence and sound design to build tension.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/0205c32e-0675-4e62-8d3d-9c659f16d380)
+
 
 #### **11.Terrence Malick:**
 
@@ -158,7 +168,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Natural light, breathtaking landscapes, slow-motion shots, poetic imagery, philosophical themes.
 -   **Editing Style Prompt:** Impressionistic, non-linear, voiceover narration, long takes, contemplative pacing.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/d9f5c0e9-ae93-494f-b2c5-b2b0966fe793)
+
 
 #### **12.Paul Thomas Anderson:**
 
