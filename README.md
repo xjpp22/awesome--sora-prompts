@@ -1,78 +1,12 @@
 # awesome--sora-prompts
-I believe that Sora is a revolutionary tool for video creation and storytelling, and let‘s explore its potential and possibilities. 
-This is a collection of text prompts that can help users make amazing videos with Sora. These prompts are based on the styles and themes of different talented directors, and they can guide Sora to generate videos that match their aesthetics and techniques. 
+Sora's official prompts demonstrate that the visual impression of prompts is crucial. Imagine you're a film director who also pens novels.
+1. Incorporate motion + sensory experience + intricate details
+2. Camera movements: Think of your prompt as the camera. It's up to you to direct its movement to capture the essence of the scene. Eventually, your prompt should paint a coherent and sensible picture.
+3. Sensory experience: Sight, hearing, taste, smell, touch (you don't have to use all of these, pick what's appropriate for the scenario). Portraying the protagonist's sensory encounters can enhance the vividness of the video.
+4. Detailing: Pay attention to the significant elements of what you're characterizing and emphasize the aspects that carry the most weight.
 
-# The following are some common approaches to AI text-to-video creation prompts:
+This is a collection of prompts that can help users make amazing videos with Sora. These prompts are based on the styles and themes of different talented directors. 
 
-## Time of Day:
-
-- Dusk, dawn, morning, noon, afternoon, nightfall
-
-## Location:
-
-- Office, bedroom, dining room, bar, park, street
-
-## Weather Conditions:
-
-- Sunny, overcast, rainy/snowy, foggy, windy
-
-## Props:
-
-Common prop types include:
-
-- Characters: actors, models, extras, etc. 
-- Animals: pets, wildlife, etc.
-- Flora: flowers, trees, etc.
-- Objects: furniture, vehicles, buildings, etc.
-
-## Characters:
-
-Performing what action:
-
-## Shot Scale:
-
-- Extreme wide shot, wide shot, medium shot, close-up shot, extreme close-up
-
-## Camera Angle:
-
-- Straight-on, side, back, low-angle, high-angle, aerial, canted angle
-
-## Camera Movements:
-
-- Zoom in/out, pan, tilt, crane shot, tracking shot, vertical flip, horizontal flip, cut
-
-## Depth of Field:
-
-- Deep focus, shallow focus, focal stacking, small foreground background separation, large foreground/background separation, selective focus, deep depth of field, layered depth of field
-
-## Composition:
-
-- Centered, rule of thirds, symmetrical, negative space, diamond, triangle, circular, aerial, dynamic, scattered, repetitive, balanced, layered, close-up, etc.
-
-## Visual Style: 
-
-- Realism: pursues realistic representation, rich in detail
-- Neorealism: such as Italian Neorealism
-- Romanticism: emotional, lyrical 
-- Magic Realism: such as Latin American Magical Realist films
-- Impressionism: pursues fragmentary impressions, soft imagery
-- Expressionism: expresses subjective emotions, exaggerated imagery
-- German Expressionism: harsh contrasts, distorted framing, exaggerated acting, profound themes
-- Rough Style: rough, naturalistic scenery and editing
-- Cubism: strong 3D feel, pronounced set design
-- Futurism: exaggerated, futuristic set design
-- Mood Style: abstract, dreamlike mood
-- Surrealism: such as Buñuel's works 
-- Post-Impressionism: colorful
-- Fauvism: dark-toned, oppressive mood
-- Cubism: simplifies forms into cubes
-- Futurism: exaggerated futuristic set design 
-- Dadaism: avant-garde, absurd, deformational 
-- Surrealism: stream of consciousness, bizarre
-
-## Color Tone:
-- Cool, warm, high contrast, low contrast, saturated, desaturated, monochrome, distinct color blocks, steel blue, golden hour, vintage, noir, etc. different color effects
-  
 # The following are 100 talented directors:
 ## 1. Orson Welles - Citizen Kane:
 > Visual Style - Dramatic lighting and shadows, exaggerated
