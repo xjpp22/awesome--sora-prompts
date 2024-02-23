@@ -7,6 +7,7 @@ Sora's official prompts demonstrate that the visual impression of prompts is cru
 
 # context:
 1.12 typical strategies used in creating AI text-to-video prompts
+
 2.100+ Incredible Sora Prompts That Will Blow Your Mind
 ___________________________________________________________________________________________________
 # Here are 12 typical strategies used in creating AI text-to-video prompts:
