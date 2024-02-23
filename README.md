@@ -11,32 +11,32 @@ Sora's official prompts demonstrate that the visual impression of prompts is cru
 2.100+ Incredible Sora Prompts That Will Blow Your Mind
 ___________________________________________________________________________________________________
 # Here are 12 typical strategies used in creating AI text-to-video prompts:
-## Time of Day:
+## Time of Day⏰:
 - Dusk, dawn, morning, noon, afternoon, nightfall
 
-## Location:
+## Location📮:
 - Office, bedroom, dining room, bar, park, street
 
-## Weather Conditions:
+## Weather Conditions🌞:
 - Sunny, overcast, rainy/snowy, foggy, windy
 
-## Props:
+## Props🔧:
 Common prop types include:
 - Characters: actors, models, extras, etc. 
 - Animals: pets, wildlife, etc.
 - Flora: flowers, trees, etc.
 - Objects: furniture, vehicles, buildings, etc.
 
-## Characters:
+## Characters👨🏻:
 Performing what action:
 
 ## Shot Scale:
 - Extreme wide shot, wide shot, medium shot, close-up shot, extreme close-up
 
-## Camera Angle:
+## Camera Angle📷:
 - Straight-on, side, back, low-angle, high-angle, aerial, canted angle
 
-## Camera Movements:
+## Camera Movements⬇️:
 - Zoom in/out, pan, tilt, crane shot, tracking shot, vertical flip, horizontal flip, cut
 
 ## Depth of Field:
