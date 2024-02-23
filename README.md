@@ -177,7 +177,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Long takes, meticulous cinematography, focus on textures and details, period-specific atmosphere, oil landscapes.
 -   **Editing Style Prompt:** Rhythmic cuts, complex character studies, use of silence and sound design to create tension.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/9bc8a6e8-11fd-471c-9a21-67a17de47b3d)
+
 
 #### **13.Lynne Ramsay:**
 
@@ -185,7 +186,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Subjective camerawork, handheld shots, close-ups, distorted perspectives, use of color to reflect emotions.
 -   **Editing Style Prompt:** Non-linear narrative, jump cuts, disorienting imagery, sound design as storytelling tool.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/a83d4f32-3060-40bc-a712-1dc6e524428c)
+
 
 #### **14.Bong Joon-ho:**
 
@@ -193,7 +195,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Contrasting visuals (rich vs. poor), dynamic tracking shots, meticulous set design, claustrophobic framing.
 -   **Editing Style Prompt:** Fast-paced cuts, unexpected shifts in tone, dark humor, suspenseful build-up.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/15620e81-ee2a-4166-a4be-07b7c6d2c11a)
+
 
 #### **15.Denis Villeneuve:**
 
@@ -201,7 +204,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Visually stunning landscapes, atmospheric lighting, realistic CGI, epic scale, slow-motion sequences.
 -   **Editing Style Prompt:** Precise cuts, building tension, use of silence and sound design, immersive experience.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/f9277844-3407-4e74-82e8-eed7f52ac8c8)
+
 
 #### **16.Andrei Tarkovsky:**
 
@@ -209,7 +213,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Long takes, slow pacing, dreamlike sequences, philosophical themes, emphasis on nature.
 -   **Editing Style Prompt:** Contemplative, minimalist, metaphorical, use of long shots to build atmosphere.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/6c143a77-5af0-4e2f-b335-70ff058c6ce2)
+
 
 #### **17.Pedro Almodóvar:**
 
@@ -217,7 +222,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Bold colors, vibrant sets, expressive costumes, melodrama, stylized framing, close-ups on emotions.
 -   **Editing Style Prompt:** Fast-paced, playful, dramatic shifts, voiceover narration, use of pop music.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/3a9e682a-4472-4f51-9efe-301ff09beaff)
+
 
 #### **18.Jane Campion:**
 
@@ -225,7 +231,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Wide panoramic shots, natural landscapes, focus on female gaze, raw emotions, evocative use of silence.
 -   **Editing Style Prompt:** Rhythmic cuts, subtle storytelling, character-driven moments, exploration of unspoken tension.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/c68cb9ca-892d-4600-b80b-9a8ad9999356)
+
 
 #### **19.Guillermo del Toro:**
 
@@ -233,7 +240,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Dark fantasy aesthetic, grotesque creatures, magical realism, intricate production design, dreamlike sequences.
 -   **Editing Style Prompt:** Dynamic cuts, suspenseful build-up, juxtaposition of beauty and horror, impactful sound design.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/a3629997-c44b-49b2-8530-c570ae1c89a2)
+
 
 #### **20.Agnès Varda:**
 
@@ -241,7 +249,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Handheld camerawork, documentary realism, social commentary, focus on marginalized characters, use of natural light.
 -   **Editing Style Prompt:** Non-linear narrative, jump cuts, blending fiction and documentary, observational approach.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/0fe7f9d5-bee7-4cc2-ad19-0bdc5a4ed8a1)
+
 
 #### **21.Spike Lee:**
 
@@ -249,7 +258,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Bold color palettes, dynamic camerawork, Dutch angles, tracking shots, use of music videos as inspiration.
 -   **Editing Style Prompt:** Rhythmic cuts, energetic sequences, juxtaposing humor and social commentary, impactful soundtrack.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/323b0bb8-28a9-494a-a4d1-bc884cd3a23f)
+
 
 #### **22.Kelly Reichardt:**
 
@@ -257,7 +267,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Minimalism, natural landscapes, muted colors, slow pacing, long takes, focus on character interactions.
 -   **Editing Style Prompt:** Contemplative pacing, subtle drama, use of silence and sound design to build atmosphere.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/9045e935-6b09-4a5c-bc09-8c58fda9e9fc)
+
 
 #### **23.Hirokazu Kore-eda:**
 
@@ -265,15 +276,14 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Long takes, static camerawork, intimate compositions, focus on family dynamics, natural light.
 -   **Editing Style Prompt:** Subtle cuts, observational approach, naturalistic acting, quiet emotional moments.
 
-![]()
-
 #### **24.Sofia Coppola:**
 
 -   **Masterpiece:** *Lost in Translation*
 -   **Visual Style Prompt:** Pastel color palettes, elegant costumes, symmetrical compositions, use of wide shots, melancholic atmosphere.
 -   **Editing Style Prompt:** Slow pacing, minimalist dialogue, focus on atmosphere and character emotions, subtle soundtrack.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/eea3d8d9-7efc-4324-bcf1-5d331a896d0e)
+
 
 #### **25.Lars von Trier:**
 
@@ -281,7 +291,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Handheld camerawork, shaky frames, close-ups, subjective point-of-view, distorted imagery, experimental techniques.
 -   **Editing Style Prompt:** Jump cuts, non-linear narrative, unsettling sequences, use of sound design to create tension.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/1416ac04-54c3-4a55-8dc2-d0afa810576d)
+
 
 #### **26.Kathryn Bigelow:**
 
@@ -289,7 +300,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Handheld camerawork, realistic portrayals of war, shaky close-ups, claustrophobic framing, long takes.
 -   **Editing Style Prompt:** Fast-paced cuts, intense sequences, use of sound design to create immersion and tension.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/56863f39-b396-48e7-a4a4-c5a5aa3c795c)
+
 
 #### **27.Jia Zhangke:**
 
@@ -297,7 +309,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Long takes, static camerawork, realistic portrayal of contemporary China, wide shots of landscapes, handheld sequences.
 -   **Editing Style Prompt:** Slow pacing, observational approach, focus on social commentary, minimalist dialogue.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/f2be0146-f91d-40c8-a5c0-4badd782f562)
+
 
 #### **28.Barry Jenkins:**
 
@@ -305,7 +318,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Lush cinematography, intimate close-ups, vibrant colors, handheld camerawork, focus on characters’ expressions.
 -   **Editing Style Prompt:** Subtle cuts, lyrical pacing, evocative soundtrack, use of music to convey emotions.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/3446898a-988b-4f3c-bf50-0ffc97652ee5)
+
 
 #### **29.Apichatpong Weerasethakul:**
 
@@ -313,7 +327,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Long takes, dreamlike sequences, magical realism, surreal imagery, blending documentary and fiction.
 -   **Editing Style Prompt:** Slow pacing, contemplative atmosphere, minimalist dialogue, focus on sound design.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/ce93530a-b410-469a-9140-91153d043017)
+
 
 #### **30.Michel Gondry:**
 
@@ -321,7 +336,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Creative use of special effects, innovative camerawork, playful visuals, dreamlike sequences, surreal imagery.
 -   **Editing Style Prompt:** Fast-paced cuts, non-linear narrative, dynamic sequences, use of music and sound design to enhance storytelling.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/06dc44cc-fa9c-4334-80db-0654f0a53151)
+
 
 #### **31.Panos Cosmatos:**
 
@@ -329,7 +345,8 @@ ________________________________________________________________________________
 -   **Visual Style Prompt:** Dreamlike surrealism with meticulous symmetry, blending retro-futurism and religious iconography.
 -   **Editing Style Prompt:** Slow-paced and jarring, juxtaposing reality and dreams for a disorienting atmosphere.
 
-![]()
+![image](https://github.com/xjpp22/awesome--sora-prompts/assets/128964487/a64c0f82-842d-4b91-b49e-628f10492a67)
+
 
 
 
